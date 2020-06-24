@@ -1,0 +1,7 @@
+PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"? in /tmp_amd/adams/export/adams/1/cs3311/public_html/18s1/assignments/a2/supplied/lib/db.php on line 11
+Can't connect to database (dbname=a2)
+in '/tmp_amd/adams/export/adams/1/cs3311/public_html/18s1/assignments/a2/supplied/lib/db.php', line 12, _dbError()
+in '/tmp_amd/ravel/export/ravel/3/z5116082/cs3311/ass2/progress', line 8, dbConnect()
+
